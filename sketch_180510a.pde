@@ -1,5 +1,3 @@
-float circleX = 0;
-float circleY = 240;
 Ball b;
 
 void setup() {
